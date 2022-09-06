@@ -8417,9 +8417,9 @@
     "restore": {
       "projectUniqueName": "uipath-with-github-action",
       "projectName": "uipath-with-github-action",
-      "projectPath": "C:\\Users\\Damien\\Documents\\UiPath\\uipath-with-github-action\\.local",
+      "projectPath": "C:\\Users\\Damien\\Documents\\VirtualTag\\.local",
       "packagesPath": "C:\\Users\\Damien\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Damien\\Documents\\UiPath\\uipath-with-github-action\\.local"
+      "outputPath": "C:\\Users\\Damien\\Documents\\VirtualTag\\.local"
     },
     "frameworks": {
       "net461": {
